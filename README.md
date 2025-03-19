@@ -87,6 +87,11 @@ pnpm run codegen
 The app is now running at `http://localhost:3000`.
 
 
+# Visitor Count  
+<p align="center">
+  <img src="https://visitor-count-b8lb.vercel.app/api/Github_Username?hexColor=00ff00" />
+</p>
+
 
 <br/>
 
