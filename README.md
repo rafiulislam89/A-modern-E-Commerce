@@ -7,7 +7,6 @@
 </div>
 
 
-
 <div align="center">
   <strong>Modern and high-performance e-commerce storefront for multi-region, global brands</strong>
 </div>
